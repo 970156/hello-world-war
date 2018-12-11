@@ -6,9 +6,9 @@
 		<br>
 		<h1>I Create My project</h1>
 		<br>
-		<h1>Hello Mounika</h1>
+		<h1>I Love You Mohan</h1>
 		<br>
-		<h1>Hello Mouni</h1>
+		<h1>Mouni</h1>
 </head>
 <body>
 	<h1>Hello World!</h1>
